@@ -1,8 +1,8 @@
-# TikTok API (Source code)
+# TikTok Mobile API (Source code)
 Telegram: https://t.me/reversalwizard
 
-- Full TikTok API
-- X-Argus, X-Ladon, X-Gorgon, X-Khronos
+- Full TikTok API 
+- X-Argus, X-Ladon, X-Gorgon, X-Khronos (Pure source code, native)
 - Device Generator
 - Account Generator
 - Like, follow, comment, and more
