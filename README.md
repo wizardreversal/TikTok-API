@@ -1,4 +1,5 @@
-# TikTok API
+# TikTok API (Source code)
+Telegram: https://t.me/reversalwizard
 
 - Full TikTok API
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos
