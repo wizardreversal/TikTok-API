@@ -2,7 +2,8 @@
 
 - Full TikTok API
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos
-- Account generator
+- Device Generator
+- Account Generator
 - Like, follow, comment, and more
 
 ## Demo
@@ -13,5 +14,9 @@
 - Account Generator
 
 ![image](https://github.com/wizardreversal/TikTok-API/assets/138551194/ec6096ba-e7ca-4a69-b832-458fedc4f816)
+
+- Device Generator
+
+![image](https://github.com/wizardreversal/TikTok-API/assets/138551194/163c45e0-7ee1-406a-b153-8e5b1e80301b)
 
 ### Telegram: https://t.me/reversalwizard
